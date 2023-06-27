@@ -2,6 +2,9 @@
 
 ## Descrição do Projeto
 
+Fiz esse projeto para testar algumas funções da lib venom, baseado no projeto do Washington Muniz, se você quer rodar o projeto dele "delícias da neide"
+baixe la do git hub dele, esse aqui eu coloquei la no server.js uma aplicação que eu criei que recebe valores de 1-10 e testa as funcionalidades da lib uma por uma, envio de audio, imagens, localização, etc...
+
 <p align="center"></p>
 <h1 align="center">
     <a href="https://nodejs.org/en/">🔗 NodeJS</a>
