@@ -23,7 +23,7 @@ export const stageOne = {
       });
 
       msg +=
-        '\nPara visualizar os bolos, *acesse*: https://wa.me/c/556884257619\n\n⚠️ ```APENAS UMA OPÇÃO POR VEZ``` ⚠️\n*Digite OPÇÃO referente ao produto ao qual deseja pedir:*';
+        '\nPara visualizar nosso cardápio, *acesse*: https://wa.me/c/556884257619\n\n⚠️ ```APENAS UMA OPÇÃO POR VEZ``` ⚠️\n*Digite OPÇÃO referente ao produto ao qual deseja pedir:*';
       storage[from].stage = 2;
 
       return msg;

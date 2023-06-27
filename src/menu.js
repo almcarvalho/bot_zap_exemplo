@@ -1,22 +1,22 @@
 export const menu = {
   1: {
-    description: 'Leite Ninho',
-    price: 6,
+    description: 'Açai Sergipano',
+    price: 15,
   },
   2: {
-    description: 'Alpino',
-    price: 6,
+    description: 'Açai Com Morango',
+    price: 16,
   },
   3: {
-    description: 'Prestígio',
-    price: 6,
+    description: 'Açai adicional a parte',
+    price: 17,
   },
   4: {
-    description: 'Abacaxi',
+    description: 'Pastel de frango',
     price: 6,
   },
   5: {
-    description: 'Dois Amores',
+    description: 'Torta de Chocolate',
     price: 6,
   },
 };
